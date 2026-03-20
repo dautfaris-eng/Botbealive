@@ -6,9 +6,9 @@
     "type": "online"
   },
   "server": {
-    "ip": "FARISPRIME.aternos.me",
+    "ip": "arabianpartridge.aternos.host:60158",
     "port": 60158,
-    "version": "1.21.11",
+    "version": "",
     "try-creative": false
   },
   "position": {
