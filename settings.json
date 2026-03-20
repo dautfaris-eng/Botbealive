@@ -2,13 +2,13 @@
   "name": "AFK Bot",
   "bot-account": {
     "username": "imgonnacream",
-    "password": "",
-    "type": "offline"
+    "password": "2132",
+    "type": "online"
   },
   "server": {
     "ip": "FARISPRIME.aternos.me",
     "port": 60158,
-    "version": "",
+    "version": "1.21.11",
     "try-creative": false
   },
   "position": {
